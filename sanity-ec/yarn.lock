@@ -1895,6 +1895,8 @@
     "rxjs" "^6.5.3"
 
 "@sanity/vision@^2.29.5":
+  "integrity" "sha512-3bNsqCpY8yFX3Tcjuq7exSip5g0V76agOgFhLZ3cPNwuN298JNuirXXXSNd7rBaILYBPgYXSQHZHT4abbpNh3A=="
+  "resolved" "https://registry.npmjs.org/@sanity/vision/-/vision-2.35.2.tgz"
   "version" "2.35.2"
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
